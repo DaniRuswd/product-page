@@ -1,0 +1,106 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+#header-img {
+  width: 30vw;
+  height: auto;
+}
+
+#form {
+  font-size: 1.8vw;
+  border-radius: 5px;
+  margin: 1vw;
+}
+
+body {
+  background-color: #c5a64f;
+}
+ul {
+  list-style: none;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+button {width: 12vw;
+  font-size: 1.8vw;
+  background-color: #fff237;
+  cursor: pointer;
+  border: black;
+}
+a {
+  font-size: 1.8vw;
+  color: black;
+  text-decoration-line: none;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  padding: 0.5vw;
+}
+
+.icon {
+  widows: 20vw;
+  height: 15vw;
+  border-radius: 5px;
+  margin: 1vw;
+}
+.catalogue {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10vw;
+  font-size: 2vw;
+}
+.feat {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  margin: 1vw;
+}
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 1vh 0vw 1vh 25vw;
+  width: 50vw;
+  font-size:1.8vw ;
+}
+#designs {
+  margin: 10vh 0vw 1vh 15vw;
+  width: 50vw;
+}
+.art {
+  display: flex;
+  width: 30vw;
+  height: auto;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 2vw;
+  margin: 1vw;
+  font-size: 1.8vw;
+}
+#category {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 10vw;
+}
+footer {
+  text-align-last: right;
+  font-size: 1.8vw;
+  padding: 15vh 0vw 0vh 0vw;
+}
+video{width: 70vw;
+height: auto;}
